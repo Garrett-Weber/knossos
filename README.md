@@ -1,6 +1,6 @@
 # Knossos
 
-A reverse shell that facilitates an AES encrypted connection.
+A bind shell that facilitates an AES encrypted connection.
 
 ## How to install
 
